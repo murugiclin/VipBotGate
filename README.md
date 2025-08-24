@@ -43,12 +43,6 @@ cd VipBotGate
 pip install -r requirements.txt
 ```
 
-#### If using Node.js:
-
-```bash
-
-```
-
 ## 🚀 Running the Bot
 
 ### Python
